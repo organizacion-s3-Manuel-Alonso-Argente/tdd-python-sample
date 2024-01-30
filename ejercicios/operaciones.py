@@ -5,8 +5,8 @@ def suma(x,y):
     return x + y
 
 def par(x):
-    if x%2 == 0
-        return "Par"
+    if x%2 == 0:
+        return "par"
     else
-        return "Impar"
+        return "impar"
 
