@@ -9,5 +9,5 @@ class TestClass:
 
     # Test para la operación suma
     def test_par(self):
-        assert par(4) == "par"
-        assert par(5) == "impar"
+        assert es_par(4) == "par"
+        assert es_par(5) == "impar"
