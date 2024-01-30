@@ -4,7 +4,7 @@ def suma(x,y):
     # El alumno deberá implementar correctamente el código de la función para pasar el test correspondiente
     return x + y
 
-def par(x);
+def par(x):
     if x%2 == 0
         return "Par"
     else
