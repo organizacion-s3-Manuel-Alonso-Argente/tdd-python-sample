@@ -11,3 +11,4 @@ class TestClass:
     def test_par(self):
         assert es_par(4) == "par"
         assert es_par(5) == "impar"
+        assert es_par(6) == "par"
