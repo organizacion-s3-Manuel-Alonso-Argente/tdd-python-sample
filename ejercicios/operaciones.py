@@ -7,6 +7,6 @@ def suma(x,y):
 def par(x):
     if x%2 == 0:
         return "par"
-    else
+    else:
         return "impar"
 
